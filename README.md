@@ -1,3 +1,3 @@
-* Demo
+# Demo
 
 A demo readme file
