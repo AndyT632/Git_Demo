@@ -14,4 +14,8 @@ Pushed changes
 Made changes to files in GitHub
 Pulled updates from GitHub
 
+## Local Development
+
+1. open index.html in your browser
+
 
